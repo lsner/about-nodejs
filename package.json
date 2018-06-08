@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/lsner/about-webpack#readme",
   "dependencies": {
+    "async": "^2.6.1",
+    "fs": "0.0.1-security",
+    "q": "^1.5.1",
     "webpack": "^4.8.3"
   }
 }
