@@ -42,6 +42,7 @@ http.createServer(function (req, res) {
             </html>    
         `)
         res.end()
+        console.log(11111)
     }
 
 }).listen('8888', function () {
