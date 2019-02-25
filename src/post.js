@@ -42,13 +42,9 @@ http.createServer(function (req, res) {
             </html>    
         `)
         res.end()
-        console.log(11111)
     }
 
 }).listen('8888', function () {
     console.log("服务器8000端口启动……")
-    console.log("test")
-    console.log("test2")
-    console.log("test3")
 })
 
